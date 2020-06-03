@@ -1,0 +1,14 @@
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendTD\bin\Debug\backendTD.dll.config
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendTD\bin\Debug\backendTD.dll
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendTD\bin\Debug\backendTD.pdb
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendTD\bin\Debug\backendAD.dll
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendTD\bin\Debug\backendED.dll
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendTD\bin\Debug\MySql.Data.dll
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendTD\bin\Debug\backendAD.pdb
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendTD\bin\Debug\backendAD.dll.config
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendTD\bin\Debug\backendED.pdb
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendTD\obj\Debug\backendTD.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendTD\obj\Debug\backendTD.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendTD\obj\Debug\backendTD.csproj.CopyComplete
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendTD\obj\Debug\backendTD.dll
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendTD\obj\Debug\backendTD.pdb

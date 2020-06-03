@@ -1,0 +1,5 @@
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendED\bin\Debug\backendED.dll
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendED\bin\Debug\backendED.pdb
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendED\obj\Debug\backendED.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendED\obj\Debug\backendED.dll
+C:\Users\jonat\Desktop\proyecto tienda\proyecto\EcommerceBackend\backendED\obj\Debug\backendED.pdb

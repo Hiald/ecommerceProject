@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="cnMysql-Web.config Connection String" description="cnMysql Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=mysql5027.site4now.net;User Id=a47a2c_edb;Initial Catalog=db_a47a2c_edb;Password=ecommercedb2020." tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jonat\\Desktop\\proyecto\ tienda\\proyecto\\EcommerceBackend\\EcommerceBackend\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='cnMysql']/@connectionString" />
+  </parameter>
+</parameters>
